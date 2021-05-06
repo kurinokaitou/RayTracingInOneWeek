@@ -1,0 +1,3 @@
+﻿  Triangle.cpp
+D:\CG\projects\RayTracingInOneWeek\Global.h(20,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  RayTracingInOneWeek.vcxproj -> D:\CG\projects\RayTracingInOneWeek\x64\Debug\RayTracingInOneWeek.exe

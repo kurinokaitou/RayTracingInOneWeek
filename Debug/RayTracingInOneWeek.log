@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\CG\projects\RayTracingInOneWeek\Global.h(18,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\CG\projects\RayTracingInOneWeek\Scene.h(12,53): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CG\projects\RayTracingInOneWeek\ConsoleNotifier.h(13,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Renderer.cpp
+D:\CG\projects\RayTracingInOneWeek\Global.h(18,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\CG\projects\RayTracingInOneWeek\Scene.h(12,53): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CG\projects\RayTracingInOneWeek\Renderer.cpp(20,29): warning C4018: “<”: 有符号/无符号不匹配
+D:\CG\projects\RayTracingInOneWeek\Renderer.cpp(21,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\CG\projects\RayTracingInOneWeek\Renderer.cpp(22,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\CG\projects\RayTracingInOneWeek\Renderer.cpp(24,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Scene.cpp
+D:\CG\projects\RayTracingInOneWeek\Global.h(18,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\CG\projects\RayTracingInOneWeek\Scene.h(12,53): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CG\projects\RayTracingInOneWeek\Scene.cpp(47,3): warning C4065: switch 语句包含“default”但是未包含“case”标签
+  Sphere.cpp
+D:\CG\projects\RayTracingInOneWeek\Global.h(18,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+D:\CG\projects\RayTracingInOneWeek\vec3.h(84): warning C4172: 返回局部变量或临时变量的地址: v
+D:\CG\projects\RayTracingInOneWeek\vec3.h(88): warning C4172: 返回局部变量或临时变量的地址: v
+D:\CG\projects\RayTracingInOneWeek\Scene.cpp(15): error C4716: “Scene::intersectBVH”: 必须返回一个值
+D:\CG\projects\RayTracingInOneWeek\vec3.h(84): warning C4172: 返回局部变量或临时变量的地址: v
+D:\CG\projects\RayTracingInOneWeek\vec3.h(88): warning C4172: 返回局部变量或临时变量的地址: v
